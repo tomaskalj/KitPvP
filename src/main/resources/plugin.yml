@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${pluginVersion}
+authors: [Lacota, Paroxial]
+main: com.minebunch.kitpvp.KitPlugin
+depend: [mCore]
